@@ -1,5 +1,4 @@
 # Robotic-Puppet-Show
-![robobtic-puppet-show(1)](D:\github\Robotic-Puppet-Show\media)
 It contains code and documentation of project made by my team for SRISHTI-2k18 under Model and Robotics Section.
 
 # Gadgets used
