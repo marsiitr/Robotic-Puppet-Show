@@ -1,4 +1,5 @@
 # Robotic-Puppet-Show
+![rps](https://www.facebook.com/marsiitr/photos/a.1966209046938069.1073741828.1959765544249086/2463132200579082/?type=3&theater&ifg=1)
 It contains code and documentation of project made by my team for SRISHTI-2k18 under Model and Robotics Section.
 
 # Gadgets used
@@ -17,12 +18,12 @@ It contains code and documentation of project made by my team for SRISHTI-2k18 u
 Syncing the audio and movements of puppet. A simple code in python is used to sync the audio nad movements. when we run the code the audio and th novements starts at the same time.
 
 # Team Members
-1. Anmol Bansal
-2. Naman Singhal
-3. Abhishek Agrawal
-4. Arpan Singh
+1. Abhishek Agrawal
+2. Anmol Bansal
+3. Arpan Singh
+4. Naman Singhal
 
 # Mentors
-1. Nikhil kumar
-2. Bhavya Giri Goswami
-3. Dhruv Gamdha
+1. Bhavya Giri Goswami
+2. Dhruv Gamdha
+3. Nikhil kumar
