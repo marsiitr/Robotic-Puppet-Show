@@ -1,5 +1,6 @@
 # Robotic-Puppet-Show
-![rps](https://user-images.githubusercontent.com/39056402/41507267-0ac399a8-724d-11e8-8750-16740335ceee.jpg)
+![robotic-puupet-show 1](https://user-images.githubusercontent.com/39056402/41507467-8a57e518-7250-11e8-8871-f38f339b8ad9.jpg)
+
 It contains code and documentation of project made by my team for SRISHTI-2k18 under Model and Robotics Section.
 
 # Gadgets used
