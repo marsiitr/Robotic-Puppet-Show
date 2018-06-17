@@ -1,5 +1,5 @@
 # Robotic-Puppet-Show
-![rps](http://www.facebook.com/marsiitr/photos/a.1966209046938069.1073741828.1959765544249086/2463132200579082/?type=3&theater&ifg=1)
+![rps](https://www.facebook.com/marsiitr/photos/a.1966209046938069.1073741828.1959765544249086/2463132200579082/?type=3&theater&ifg=1)
 It contains code and documentation of project made by my team for SRISHTI-2k18 under Model and Robotics Section.
 
 # Gadgets used
