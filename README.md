@@ -27,3 +27,4 @@ Syncing the audio and movements of puppet. A simple code in python is used to sy
 1. Bhavya Giri Goswami
 2. Dhruv Gamdha
 3. Nikhil kumar
+![robotic-puupet-show 4](https://user-images.githubusercontent.com/39056402/41507343-98ea7a84-724e-11e8-9543-c6f1884f709b.jpg)
