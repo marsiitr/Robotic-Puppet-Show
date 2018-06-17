@@ -30,5 +30,5 @@ Syncing the audio and movements of puppet. A simple code in python is used to sy
 ![robotic-puupet-show 4](https://user-images.githubusercontent.com/39056402/41507343-98ea7a84-724e-11e8-9543-c6f1884f709b.jpg)
 
 # Github ids
-Anmolbansal1
-Naman2017
+1. Anmolbansal1
+2. Naman2017
